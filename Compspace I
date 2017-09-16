@@ -1,0 +1,4 @@
+print ("Brought to you by the community.")
+print ("Initial code written by Terra1")
+sleep (4)
+shell.run ("clear")
