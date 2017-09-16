@@ -1,0 +1,4 @@
+Keep all the APIs in different files, so they can be reused for other projects.
+Keep the code as readable as possible and comment EVERY SINGLE LINE! ANY CODE WITHOUT COMMENTS WILL BE REJECTED UNLESS IT IS SO SIMPLE THAT EVEN YOUR 5 YEAR OLD WOULD UNDERSTAND IT! (Print, sleep, etc.)
+The only exception to that is "Production" code which is for the "average" CC person to play. Comments take up unecessary space in code that is not mean't to be edited, so they can be removed.
+Moral of the story: Bloat and messy code SHOULD BE THROWN BACK INTO WHATEVER PORTAL TO HELL IT CAME FROM!
